@@ -1,2 +1,1 @@
-# RetroRushRep.
-This is a repository for retro rush that I (Payne) am working on.
+Hello! I (and a couple of friends) are working on a game called Retro Rush. It is a platformer type style game and is a very big project! Our challenge was to only use websites that are made by or are github. So, for the sprites, we are using Piskel.com It is a very good editor that is free. The coding will be done on github.
